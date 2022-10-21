@@ -1,4 +1,8 @@
 
+
+Hey people , i recently completed my hacktober fest, these are the badges that i got after successfully completing 4 PRs
+
+
 [![@itsshashwat's Holopin board](https://holopin.me/itsshashwat)](https://holopin.io/@itsshashwat)
 
 <!--
